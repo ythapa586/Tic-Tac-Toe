@@ -1,10 +1,18 @@
-# Tic-Tac-Toe
-A simple and interactive Tic-Tac-Toe game built using Java Swing and AWT.
-This project provides a fun way to learn about GUI programming, event handling, and basic game logic in Java.
+## Getting Started
 
-The game starts with Player X.
--Players take turns clicking on empty tiles.
--After each move:
--The game checks for a winning combination (3 same symbols in a row, column, or diagonal).
--If no winner and the board is full, it declares a tie.
--The top label displays the current player’s turn or the final result.
+Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+
+## Folder Structure
+
+The workspace contains two folders by default, where:
+
+- `src`: the folder to maintain sources
+- `lib`: the folder to maintain dependencies
+
+Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+
+> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+
+## Dependency Management
+
+The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
